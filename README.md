@@ -57,15 +57,4 @@ Then open **http://localhost:8501** in your browser.
 
 ---
 
-## What to show the instructor
 
-1. Open `bot.py` — point to each of the 5 steps in the code
-2. Open `config.py` — show how easy it is to change stocks / risk rules
-3. Press ▶ Run → click **"Analyse Stocks Now"**
-4. Show the **stock cards** with LLM decisions
-5. Show the **ChromaDB section** — what text gets stored and retrieved
-6. Show the **Trade History** table updating
-
----
-
-> ⚠️ Paper money only. Not financial advice.
