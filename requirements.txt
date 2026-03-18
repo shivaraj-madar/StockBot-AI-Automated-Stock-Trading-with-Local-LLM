@@ -1,0 +1,7 @@
+yfinance
+transformers
+torch
+accelerate
+chromadb
+streamlit
+plotly
